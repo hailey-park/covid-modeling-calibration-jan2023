@@ -1,0 +1,51 @@
+"","age_group","immunity_type","waning_group","proportion","num_people"
+"1","0-17 years","hybrid/infection-only","0-3 months",0.03913,348047
+"2","0-17 years","hybrid/infection-only","12+ months",0.130789,1163321
+"3","0-17 years","hybrid/infection-only","3-6 months",0.136151,1211014
+"4","0-17 years","hybrid/infection-only","6-12 months",0.123277,1096505
+"5","0-17 years","immune-naive",NA,0.333095,2962760
+"6","0-17 years","recovered","0-3 months",0.087636,779491
+"7","0-17 years","vaccine-only","0-3 months",0.044169,392867
+"8","0-17 years","vaccine-only","12+ months",1e-06,9
+"9","0-17 years","vaccine-only","3-6 months",0.052147,463829
+"10","0-17 years","vaccine-only","6-12 months",0.053605,476797
+"11","18-49 years","hybrid/infection-only","0-3 months",0.092516,1621667
+"12","18-49 years","hybrid/infection-only","12+ months",0.05512,966171
+"13","18-49 years","hybrid/infection-only","3-6 months",0.063335,1110168
+"14","18-49 years","hybrid/infection-only","6-12 months",0.173746,3045508
+"15","18-49 years","immune-naive",NA,0.147312,2582159
+"16","18-49 years","recovered","0-3 months",0.059522,1043332
+"17","18-49 years","vaccine-only","0-3 months",0.133434,2338899
+"18","18-49 years","vaccine-only","12+ months",7e-06,123
+"19","18-49 years","vaccine-only","3-6 months",0.023172,406171
+"20","18-49 years","vaccine-only","6-12 months",0.251836,4414309
+"21","50-64 years","hybrid/infection-only","0-3 months",0.146424,1061715
+"22","50-64 years","hybrid/infection-only","12+ months",0.031752,230233
+"23","50-64 years","hybrid/infection-only","3-6 months",0.041732,302597
+"24","50-64 years","hybrid/infection-only","6-12 months",0.149137,1081387
+"25","50-64 years","immune-naive",NA,0.091657,664601
+"26","50-64 years","recovered","0-3 months",0.049244,357066
+"27","50-64 years","vaccine-only","0-3 months",0.230597,1672050
+"28","50-64 years","vaccine-only","12+ months",1.2e-05,87
+"29","50-64 years","vaccine-only","3-6 months",0.018518,134273
+"30","50-64 years","vaccine-only","6-12 months",0.240927,1746952
+"31","65-74 years","hybrid/infection-only","0-3 months",0.142581,482875
+"32","65-74 years","hybrid/infection-only","12+ months",0.01244,42130
+"33","65-74 years","hybrid/infection-only","3-6 months",0.031782,107635
+"34","65-74 years","hybrid/infection-only","6-12 months",0.076135,257844
+"35","65-74 years","immune-naive",NA,0.061847,209455
+"36","65-74 years","recovered","0-3 months",0.033731,114236
+"37","65-74 years","vaccine-only","0-3 months",0.383974,1300393
+"38","65-74 years","vaccine-only","12+ months",1.7e-05,58
+"39","65-74 years","vaccine-only","3-6 months",0.04673,158259
+"40","65-74 years","vaccine-only","6-12 months",0.210763,713785
+"41","75+ years","hybrid/infection-only","0-3 months",0.140911,345436
+"42","75+ years","hybrid/infection-only","12+ months",0.022431,54988
+"43","75+ years","hybrid/infection-only","3-6 months",0.031316,76769
+"44","75+ years","hybrid/infection-only","6-12 months",0.068524,167983
+"45","75+ years","immune-naive",NA,0.112034,274645
+"46","75+ years","recovered","0-3 months",0.033487,82092
+"47","75+ years","vaccine-only","0-3 months",0.378,926646
+"48","75+ years","vaccine-only","12+ months",5e-06,12
+"49","75+ years","vaccine-only","3-6 months",0.044291,108577
+"50","75+ years","vaccine-only","6-12 months",0.169001,414297
